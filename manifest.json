@@ -1,0 +1,11 @@
+{
+    "name": "Dictionary",
+    "version": "1.0.0",
+    "description": "Search any words",
+    "manifest_version": 3,
+    "author": "Md Ansar",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Dictionary"
+    }
+}
